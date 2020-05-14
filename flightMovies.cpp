@@ -25,7 +25,7 @@ using namespace std;
 int main()
 {
    int flightlength = 60;
-   vector<int> length_of_movies = {10, 20, 30 , 40 ,50};
+   vector<int> length_of_movies = {30, 10, 100 , 40 ,50};
    cout << canTwoMoviesFillFlight(length_of_movies, flightlength);
    return 0;
 }
