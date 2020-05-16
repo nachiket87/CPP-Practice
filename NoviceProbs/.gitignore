@@ -1,7 +1,8 @@
-nachiket
 .vscode
 .bash_profile
 testing.cpp
-nachiket*.*
-testing
 *.dSYM
+*
+!*.cpp
+testing.cpp
+!*.h
